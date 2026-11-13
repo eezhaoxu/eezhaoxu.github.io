@@ -8,51 +8,74 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+# About Me
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Professor **Zhao Xu** received his B.Eng, M.Eng and Ph.D degrees from Zhejiang University (China), National University of Singapore, and The University of Queensland in 1996, 2002 and 2006 respectively, all in electrical power engineering. He is now a Professor and Leader of the Smart Grid Research Area in the Department of Electrical and Electronic Engineering at The Hong Kong Polytechnic University (PolyU).
 
+His research interests include power system operation under uncertainties, renewable energy integration, and smart grid technologies. He has secured more than HK$50 million in research and consultancy funding. He is a Senior Member of IEEE. He has edited 1 book and published over 300 technical papers in international top journals and conferences ([Google Scholar](https://scholar.google.com/citations?user=6MgXqkkAAAAJ&hl=en), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55764069000)).
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<span class='anchor' id='biography'></span>
 
-# 📝 Publications 
+# Biography
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+## Positions Held
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- *2017 – now*: Professor, Department of Electrical and Electronic Engineering, The Hong Kong Polytechnic University
+- *2023 – now*: Director, PolyU Technology and Consultancy Co Ltd.
+- *2022 – now*: Deputy Director, CSG–PolyU Joint Institute for Green and Secure Power Grid
+- *2010 – 2017*: Assistant / Associate Professor, Department of Electrical Engineering, The Hong Kong Polytechnic University
+- *2009 – now*: Associate Professor (Foreign Associate Staff), Department of Electrical Engineering, Technical University of Denmark (DTU)
+- *2006 – 2009*: Assistant Professor, Centre for Electric Technology, DTU
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+## Education
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+- *2006*: Ph.D, The University of Queensland (electrical power engineering)
+- *2002*: M.Eng, National University of Singapore (electrical power engineering)
+- *1996*: B.Eng, Zhejiang University (electrical power engineering)
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<span class='anchor' id='membership'></span>
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# Membership
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Senior Member, IEEE
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+<span class='anchor' id='academic-service'></span>
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# Academic Service
+
+## Editorial
+
+- *2026 – now*: Editor, IEEE Transactions on Industrial Applications
+- *2025 – now*: Editor, Communications Sustainability, Springer Nature
+- *2021 – now*: Editor, IET Renewable Power Generation
+- *2015 – now*: Editor, IEEE Transactions on Smart Grid
+- *2014 – 2020*: Editor, IEEE Power Engineering Letter
+- *2013 – now*: Editorial Board Member, Springer Journal of Modern Power Systems and Clean Energy
+- *2017*: Guest Editor, Special Section on Emerging Informatics, IEEE Transactions on Industrial Informatics
+- *2014*: Guest Editor-in-Chief, Special Issue on Modern Optimization Techniques, Journal of Modern Power Systems and Clean Energy
+
+## Leadership
+
+- *2017 – now*: Chairman, IEEE Hong Kong Joint Chapter of PES, IAS, PELS and IES
+
+<span class='anchor' id='selected-publications'></span>
+
+# Selected Publications
+
+## Representative Recent Publications
+
+1. X. Su, Y. Wang, M. H. Wang, J. Chen, Z. X. Xu, L. Yang, Z. Xu, "Dynamic-Loss-Free Stability Enhancement for DC Data Center Power Systems with Impedance-Reshaped Flying Capacitor," *IEEE Transactions on Power Electronics*, vol. 41, no. 8, pp. 13330–13343, Aug. 2026.
+2. X. Li, W. Zhang, Y. Ding, W. Shi, J. Chen, Y. Liu, Y. Zhao, G. Tang, Z. Xu, "Equilibrium-based electricity-computation collaborative scheduling for data centers integrated with seawater pumped storage hydropower," *Energy*, vol. 345, 140267, 2026.
+3. J. Ruan, Y. Zhu, Y. Cao, X. Sun, S. Lei, G. Liang, J. Qiu, Z. Xu, "Privacy-Preserving Bi-Level Optimization of Internet Data Centers for Electricity-Carbon Collaborative Demand Response," *IEEE Internet of Things Journal*, vol. 11, no. 14, pp. 24948–24959, 2024.
+4. J. Ruan, Y. Li, C. Gu, Y. W. Jia, J. W. Wang, Z. Hu, Z. Xu, H. Su, T. J. Lie, J. Song, "Long-horizon resilience of power systems under climate change," *Nature Reviews Electrical Engineering*, 2026.
+5. J. Ruan, Z. Xu, H. Su, "Towards interdisciplinary integration of electrical engineering and earth science," *Nature Reviews Electrical Engineering*, vol. 1, pp. 278–279, 2024.
+
+## Representative Earlier Publications
+
+1. Z. Xu et al., "Smart Transmission Grid: Vision and Framework," *IEEE Transactions on Smart Grid*, vol. 1, no. 2, Nov. 2010. (SCI Highly Cited Paper)
+2. C. Wan, Z. Xu, P. Pinson, Z. Y. Dong, K. P. Wong, "Probabilistic Forecasting of Wind Power Generation Using Extreme Learning Machine," *IEEE Transactions on Power Systems*, vol. 29, no. 3, pp. 1033–1044, May 2014. (SCI Highly Cited Paper)
+3. C. Wan, Z. Xu, P. Pinson, Z. Y. Dong, K. P. Wong, "Optimal Prediction Intervals of Wind Power Generation," *IEEE Transactions on Power Systems*, vol. 29, no. 3, pp. 1166–1174, May 2014. (SCI Highly Cited Paper)
+4. Z. Xu, J. Østergaard, M. Togeby, "Demand as Frequency Controlled Reserve," *IEEE Transactions on Power Systems*, vol. 26, no. 3, Aug. 2011.
+5. Z. Xu, Z. Y. Dong, K. P. Wong, "A Hybrid Planning Approach of Transmission Network in Deregulation," *IEEE Transactions on Power Systems*, pp. 925–932, May 2006.
