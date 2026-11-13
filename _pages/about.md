@@ -10,35 +10,35 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# About Me
+# 👋 About Me
 
-Professor **Zhao Xu** received his B.Eng, M.Eng and Ph.D degrees from Zhejiang University, National University of Singapore, and The University of Queensland in 1996, 2002 and 2006 respectively, all in electrical power engineering. He is now a Professor and Leader of the Smart Grid Research Area in the [Department of Electrical and Electronic Engineering](https://www.polyu.edu.hk/eee/) at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/).
+Professor **Zhao Xu** received his B.Eng, M.Eng and Ph.D degrees from Zhejiang University, National University of Singapore, and The University of Queensland in 1996, 2003 and 2006 respectively, all in electrical power engineering. He is now a Professor and Leader of the Smart Grid Research Area in the [Department of Electrical and Electronic Engineering](https://www.polyu.edu.hk/eee/) at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/). His [personal homepage](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-xu-zhao/) is available on the department website.
 
 His research interests include power system operation under uncertainties, renewable energy integration, and smart grid technologies. He has secured more than HK$50 million in research and consultancy funding. He is a Senior Member of IEEE. He has edited 1 book and published over 300 technical papers in international top journals and conferences ([Google Scholar](https://scholar.google.com/citations?user=6MgXqkkAAAAJ&hl=en)).
 
 <span class='anchor' id='biography'></span>
 
-# Biography
+# 🎓 Biography
 
 ## Appointments
 
 - *2017 – now*: Professor, Department of Electrical and Electronic Engineering, The Hong Kong Polytechnic University
 - *2023 – now*: Director, PolyU Technology and Consultancy Co Ltd.
-- *2022 – now*: Deputy Director, CSG–PolyU Joint Institute for Green and Secure Power Grid
+- *2023 – now*: Engineering Panel Member, RGC Joint Research Schemes
+- *2022 – now*: Deputy Director, China Southern Power Grid Company Ltd.–Hong Kong Polytechnic University Joint Institute for Green and Secure Power Grid
 - *2010 – 2017*: Assistant / Associate Professor, Department of Electrical Engineering, The Hong Kong Polytechnic University
-- *2010 – now*: Associate Professor (Foreign Associate Staff), Department of Electrical Engineering, Technical University of Denmark
-- *2009 – 2010*: Assistant Professor, Department of Electrical Engineering, Technical University of Denmark
-- *2006 – 2009*: Assistant Professor, Department of Electrical Engineering, Technical University of Denmark
+- *2009 – now*: Associate Professor (Foreign Associate Staff), Department of Electrical Engineering, Technical University of Denmark (DTU)
+- *2006 – 2009*: Assistant Professor, Centre for Electric Technology, DTU
 
 ## Education
 
 - *2006*: Ph.D, The University of Queensland
-- *2002*: M.Eng, National University of Singapore
+- *2003*: M.Eng, National University of Singapore
 - *1996*: B.Eng, Zhejiang University
 
 <span class='anchor' id='research'></span>
 
-# Research
+# 🔬 Research
 
 Three of his most significant contributions are highlighted below.
 
@@ -56,47 +56,48 @@ Professor Xu's next most significant contribution is his work on the intelligent
 
 <span class='anchor' id='academic-service'></span>
 
-# Academic Service
+# 🛠️ Academic Service
 
 ## Editorial
 
-- *2026 – now*: Associate Editor, IEEE Transactions on Industrial Applications
+- *2026 – now*: Editor, IEEE Transactions on Industrial Applications
 - *2025 – now*: Editor, Communications Sustainability
 - *2021 – now*: Editor, IET Renewable Power Generation
-- *2013 – now*: Editorial Board Member, Journal of Modern Power Systems and Clean Energy
-- *2015 – 2022*: Editor, IEEE Transactions on Smart Grid
+- *2015 – now*: Editor, IEEE Transactions on Smart Grid
 - *2014 – 2020*: Editor, IEEE Power Engineering Letter
+- *2013 – now*: Editorial Board Member, Journal of Modern Power Systems and Clean Energy
 - *2017*: Guest Editor, Special Section on Emerging Informatics, IEEE Transactions on Industrial Informatics
 - *2014*: Guest Editor-in-Chief, Special Issue on Modern Optimization Techniques, Journal of Modern Power Systems and Clean Energy
 
 ## Leadership
 
-- *2017 – now*: Chairman, IEEE Hong Kong Joint Chapter of PES, IAS, PELS and IES
+- *2017 – now*: Chairman, IEEE Hong Kong Joint Chapter of PES, IAS, PELS and IES — under his leadership, the chapter won the Best Chapter Award from IEEE IES Society in 2017
 
 <span class='anchor' id='research-projects-and-awards'></span>
 
-# Relevant Research Projects and Awards
+# 🏆 Relevant Research Projects and Awards
 
 ## Research Projects
 
 - PI, RGC GRF, "Advancing power system decision-making paradigms by integrated prediction-and-optimization and deep learning," HK$670,617, Jan 2027 – Dec 2029
-- PI, "Physics-Informed Digital Twin and Quantum-Like Temporal State Representation for Energy Management in Active Distribution Networks," Presidential Global Impact Postdoctoral Fellowship Scheme 25/26, HK$558,000, Sep 2027 – Aug 2028
+- PI, Presidential Global Impact Postdoctoral Fellowship Scheme 25/26, "Physics-Informed Digital Twin and Quantum-Like Temporal State Representation for Energy Management in Active Distribution Networks," HK$558,000, Sep 2027 – Aug 2028
 - PI, RGC GRF, "Leveraging actuarial instruments for electricity customer risk management and transmission strengthening planning against extreme weathers," HK$1,298,709, Jan 2025 – Dec 2027
-- Co-PI, "Study of the Regional Earth System for Sustainable Development under Climate Change in the Greater Bay Area," RGC AoE project, HK$1.2 Mil (total HK$87.147 Mil), Jan 2024 – Dec 2028
-- PI, "Research on the Identification of the Distribution Network Topology and Transformer-Household Relationship Based on Big Data and Graph Theory," China Southern Power Grid Company Ltd., CNY 2.5 Mil, Sep 2024 – Sep 2026
-- PI, "Research on Decomposition Gas Detection Technology of Lithium-ion Battery Storage based on Fiber Sensing & Laser Spectroscopy," China Southern Power Grid Company Ltd., CNY 1.75 Mil, 2024 – 2026
+- Co-PI, RGC AoE project, "Study of the Regional Earth System for Sustainable Development under Climate Change in the Greater Bay Area," HK$1.2 Mil (total HK$87.147 Mil), Jan 2024 – Dec 2028
+- PI, China Southern Power Grid Company Ltd., "Research on the Identification of the Distribution Network Topology and Transformer-Household Relationship Based on Big Data and Graph Theory," CNY 2.5 Mil, Sep 2024 – Sep 2026
+- PI, China Southern Power Grid Company Ltd., "Research on Decomposition Gas Detection Technology of Lithium-ion Battery Storage based on Fiber Sensing & Laser Spectroscopy," CNY 1.75 Mil, 2024 – 2026
 - PI, RGC GRF, "Future Grid Resilience assessment — a topological approach," HK$1,075,574, Jan 2023 – Dec 2025
-- PI, "Low-Carbon Smart Operation of Integrated Energy System Considering Multi-energy Flow Trading Mechanism, Interaction Model and Decision-making Algorithm under Complex Time-Space Coupling Environment," Key Program of National Science Foundation of China (NSFC), CNY 1,650,000, Jan 2024 – Dec 2028
-- PI, "The Research and Development of Solar Energy Performance Management System," EMSD HKSAR Government, HK$2.412 Mil, Oct 2020 – Dec 2021
-- Co-PI and Subtopic Package Leader, "Smart Solar Energy Harvesting, Storage and Utilization," HK RGC 3rd round Theme-Based Program, HK$60.33 Mil, 2014 – 2018
-- Co-PI, "Sustainable Power Delivery Structures for High Renewables," HK RGC 4th round Theme-Based Research Scheme, HK$47.12 Mil, 2015 – 2019
+- PI, Key Program of National Science Foundation of China (NSFC), "Low-Carbon Smart Operation of Integrated Energy System Considering Multi-energy Flow Trading Mechanism, Interaction Model and Decision-making Algorithm under Complex Time-Space Coupling Environment," CNY 1,650,000, Jan 2024 – Dec 2028
+- PI, EMSD HKSAR Government, "The Research and Development of Solar Energy Performance Management System," HK$2.412 Mil, Oct 2020 – Dec 2021
+- Co-PI and Subtopic Package Leader, HK RGC 3rd round Theme-Based Program, "Smart Solar Energy Harvesting, Storage and Utilization," HK$60.33 Mil, 2014 – 2018
+- Co-PI, HK RGC 4th round Theme-Based Research Scheme, "Sustainable Power Delivery Structures for High Renewables," HK$47.12 Mil, 2015 – 2019
 - PI, RGC GRF, "Leveraging Granular Analytics for Short-term Probabilistic Prognosis of Renewable Energy," HK$675,647, Jan 2017 – Dec 2019
 - PI, RGC GRF, "Security Assessment of Smart Grids involving Cyber-physical interdependencies," HK$700,000, Jan 2013 – Jan 2016
 - PI, RGC GRF, "Power System Security and Vulnerability Assessment in A Smart Grid Environment," HK$725,625, Dec 2010 – Dec 2013
-- International Consultant, Danish-Chinese Government project — Wind Development in China (WED), total 45 Mil DKK, 2005 – 2009
-- Work Package Leader and Project Steering Committee member, the EDISON project for integrating Electrical Vehicle in Electric Power System with substantial wind power, total 43 Mil DKK, 2009 – 2011
-- PI, PSO project on Demand as Frequency Controlled Reserve Phase I — background and theoretical investigation, 2 Mil DKK, Jan 2006 – May 2008
-- PI and Project Steering Committee member, EUDP project on Demand as Frequency Controlled Reserve Phase II — large scale field demonstration, 5.3 Mil DKK, from Mar 2009
+- PI, PolyU CRG, "Risk Assessment of Cascading Failures for Operation and Planning of Smart Grids," HK$161,894, Apr 2016 – Mar 2018
+- International Consultant, Danish-Chinese Government project, "Wind Development in China (WED)," total 45 Mil DKK, 2005 – 2009
+- Work Package Leader and Project Steering Committee member, "EDISON — integrating Electrical Vehicle in Electric Power System with substantial wind power," total 43 Mil DKK, 2009 – 2011
+- PI, PSO project, "Demand as Frequency Controlled Reserve Phase I — background and theoretical investigation," 2 Mil DKK, Jan 2006 – May 2008
+- PI and Project Steering Committee member, EUDP project, "Demand as Frequency Controlled Reserve Phase II — large scale field demonstration," 5.3 Mil DKK, from Mar 2009
 
 ## Awards
 
@@ -109,7 +110,15 @@ Professor Xu's next most significant contribution is his work on the intelligent
 
 <span class='anchor' id='selected-publications'></span>
 
-# Selected Publications
+# 📚 Selected Publications
+
+## Representative Recent Publications
+
+1. X. Su, Y. Wang, M. H. Wang, J. Chen, Z. X. Xu, L. Yang, Z. Xu, "Dynamic-Loss-Free Stability Enhancement for DC Data Center Power Systems with Impedance-Reshaped Flying Capacitor," *IEEE Transactions on Power Electronics*, vol. 41, no. 8, pp. 13330–13343, Aug. 2026.
+2. X. Li, W. Zhang, Y. Ding, W. Shi, J. Chen, Y. Liu, Y. Zhao, G. Tang, Z. Xu, "Equilibrium-based electricity-computation collaborative scheduling for data centers integrated with seawater pumped storage hydropower," *Energy*, vol. 345, 140267, 2026.
+3. J. Ruan, Y. Zhu, Y. Cao, X. Sun, S. Lei, G. Liang, J. Qiu, Z. Xu, "Privacy-Preserving Bi-Level Optimization of Internet Data Centers for Electricity-Carbon Collaborative Demand Response," *IEEE Internet of Things Journal*, vol. 11, no. 14, pp. 24948–24959, 2024.
+4. J. Ruan, Y. Li, C. Gu, Y. W. Jia, J. W. Wang, Z. Hu, Z. Xu, H. Su, T. J. Lie, J. Song, "Long-horizon resilience of power systems under climate change," *Nature Reviews Electrical Engineering*, 2026.
+5. J. Ruan, Z. Xu, H. Su, "Towards interdisciplinary integration of electrical engineering and earth science," *Nature Reviews Electrical Engineering*, vol. 1, pp. 278–279, 2024.
 
 ## Representative Earlier Publications
 
@@ -118,3 +127,5 @@ Professor Xu's next most significant contribution is his work on the intelligent
 3. C. Wan, Z. Xu, P. Pinson, Z. Y. Dong, K. P. Wong, "Optimal Prediction Intervals of Wind Power Generation," *IEEE Transactions on Power Systems*, vol. 29, no. 3, pp. 1166–1174, May 2014. (SCI Highly Cited Paper)
 4. Z. Xu, J. Østergaard, M. Togeby, "Demand as Frequency Controlled Reserve," *IEEE Transactions on Power Systems*, vol. 26, no. 3, Aug. 2011.
 5. Z. Xu, Z. Y. Dong, K. P. Wong, "A Hybrid Planning Approach of Transmission Network in Deregulation," *IEEE Transactions on Power Systems*, pp. 925–932, May 2006.
+
+For a full and up-to-date list of publications, please see [Google Scholar](https://scholar.google.com/citations?user=6MgXqkkAAAAJ&hl=en).
