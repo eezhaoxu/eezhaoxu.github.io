@@ -12,9 +12,9 @@ redirect_from:
 
 # 👋 About Me
 
-Professor **Zhao Xu** received his B.Eng, M.Eng and Ph.D degrees from Zhejiang University, National University of Singapore, and The University of Queensland in 1996, 2003 and 2006 respectively, all in electrical power engineering. He is now a Professor and Leader of the Smart Grid Research Area in the [Department of Electrical and Electronic Engineering](https://www.polyu.edu.hk/eee/) at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/). His [personal homepage](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-xu-zhao/) is available on the department website.
+Professor **Zhao Xu** received his B.Eng, M.Eng and Ph.D degrees from Zhejiang University, National University of Singapore, and The University of Queensland in 1996, 2003 and 2006 respectively, all in electrical power engineering. He is now a Professor and Leader of the Smart Grid Research Area in the [Department of Electrical and Electronic Engineering](https://www.polyu.edu.hk/eee/) at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/) ([personal homepage](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-xu-zhao/)).
 
-His research interests include power system operation under uncertainties, renewable energy integration, and smart grid technologies. He has secured more than HK$50 million in research and consultancy funding. He is a Senior Member of IEEE. He has edited 1 book and published over 300 technical papers in international top journals and conferences ([Google Scholar](https://scholar.google.com/citations?user=6MgXqkkAAAAJ&hl=en)).
+His research interests include power system operation under uncertainties, renewable energy integration, and smart grid technologies. His works on uncertainty-aware grid operation, long-term grid resilience, and photovoltaic (PV) performance management are highly cited and industrially adopted. He has led and participated in several large-scale research and consulting projects in Europe, China, and Australia, concerning wind energy, demand side, electric vehicles, electricity market, and power system planning. He has secured more than HK$50 million in research and consultancy funding. He is a Senior Member of IEEE, has edited 1 book, and published over 300 technical papers in international top journals and conferences ([Google Scholar](https://scholar.google.com/citations?user=6MgXqkkAAAAJ&hl=en)). Since 2006, he has successfully supervised 20+ PhD students and more than 30 MSc students as main or co-supervisor.
 
 <span class='anchor' id='biography'></span>
 
@@ -48,11 +48,11 @@ Professor Xu's most significant contribution to power system management is his r
 
 ## Long-Horizon Grid Resilience
 
-Professor Xu's next major contribution is his pioneering work in defining and quantifying "long-horizon resilience" for power grids under climate change. Recognizing that traditional operational tools are insufficient for extreme weather events, his research—featured in top-tier journals like *Nature Reviews Electrical Engineering* and *Innovation*—bridges the gap between power system operation and climate science. He was one of the early researchers to formalize this interdisciplinary framework, and his ongoing RGC projects on extreme weather risk management are actively changing how modern grids prepare for and recover from catastrophic events.
+Another significant contribution is his pioneering work in defining and quantifying "long-horizon resilience" for power grids under climate change. Recognizing that traditional operational tools are insufficient for extreme weather events, his research—featured in top-tier journals like *Nature Reviews Electrical Engineering* and *Innovation*—bridges the gap between power system operation and climate science. He was one of the early researchers to formalize this interdisciplinary framework, and his ongoing RGC projects on extreme weather risk management are actively changing how modern grids prepare for and recover from catastrophic events.
 
 ## Solar PV Integration and Performance Management
 
-Professor Xu's next most significant contribution is his work on the intelligent management of decentralized solar assets. It is one of the pioneering works in smart solar integration that has transformed the field of urban PV deployment. He was one of the early researchers to translate PV forecasting and grid integration algorithms into comprehensive, user-centric management platforms (iSMS and iSEE). Because of its wider acceptance and impact, his locally developed platforms have been officially adopted by the HKSAR Government, and his grid-integration patents are widely cited by global tech giants, practically driving the decarbonization of high-density megacities.
+Another significant contribution is his work on the intelligent management of decentralized solar assets. It is one of the pioneering works in smart solar integration that has transformed the field of urban PV deployment. He was one of the early researchers to translate PV forecasting and grid integration algorithms into comprehensive, user-centric management platforms (iSMS and iSEE). Because of its wider acceptance and impact, his locally developed platforms have been officially adopted by the HKSAR Government, and his grid-integration patents are widely cited by global tech giants, practically driving the decarbonization of high-density megacities.
 
 <span class='anchor' id='academic-service'></span>
 
@@ -112,8 +112,6 @@ Professor Xu's next most significant contribution is his work on the intelligent
 
 # 📚 Selected Publications
 
-## Representative Recent Publications
-
 1. X. Su, Y. Wang, M. H. Wang, J. Chen, Z. X. Xu, L. Yang, Z. Xu, "Dynamic-Loss-Free Stability Enhancement for DC Data Center Power Systems with Impedance-Reshaped Flying Capacitor," *IEEE Transactions on Power Electronics*, vol. 41, no. 8, pp. 13330–13343, Aug. 2026.
 2. X. Li, W. Zhang, Y. Ding, W. Shi, J. Chen, Y. Liu, Y. Zhao, G. Tang, Z. Xu, "Equilibrium-based electricity-computation collaborative scheduling for data centers integrated with seawater pumped storage hydropower," *Energy*, vol. 345, 140267, 2026.
 3. J. Ruan, Y. Zhu, Y. Cao, X. Sun, S. Lei, G. Liang, J. Qiu, Z. Xu, "Privacy-Preserving Bi-Level Optimization of Internet Data Centers for Electricity-Carbon Collaborative Demand Response," *IEEE Internet of Things Journal*, vol. 11, no. 14, pp. 24948–24959, 2024.
@@ -129,3 +127,18 @@ Professor Xu's next most significant contribution is his work on the intelligent
 5. Z. Xu, Z. Y. Dong, K. P. Wong, "A Hybrid Planning Approach of Transmission Network in Deregulation," *IEEE Transactions on Power Systems*, pp. 925–932, May 2006.
 
 For a full and up-to-date list of publications, please see [Google Scholar](https://scholar.google.com/citations?user=6MgXqkkAAAAJ&hl=en).
+
+<span class='anchor' id='opening'></span>
+
+# 💼 Opening
+
+I am looking for Post Docs and Ph.D. students with self-motivation and strong interests in power and energy areas, which include but are not limited to:
+
+- Mathematical programming and optimization
+- Power distribution systems and microgrids
+- Power system modeling and identification
+- Machine learning and data mining
+
+Preference will be given to those who have a strong mathematical background, good programming skills, and are familiar with one or more of the following tools: MATLAB/Simulink, C/C++, Python, OpenDSS, PSS/E, CPLEX, GAMS, AMPL.
+
+If you are interested in my research, please apply to the graduate program of The Hong Kong Polytechnic University.
