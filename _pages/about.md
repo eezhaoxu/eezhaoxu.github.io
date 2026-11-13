@@ -12,7 +12,7 @@ redirect_from:
 
 # About Me
 
-Professor **Zhao Xu** received his B.Eng, M.Eng and Ph.D degrees from Zhejiang University, National University of Singapore, and The University of Queensland in 1996, 2002 and 2006 respectively, all in electrical power engineering. He is now a Professor and Leader of the Smart Grid Research Area in the [Department of Electrical and Electronic Engineering](https://www.polyu.edu.hk/eee/) at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/). His [personal homepage](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-xu-zhao/) is available on the department website.
+Professor **Zhao Xu** received his B.Eng, M.Eng and Ph.D degrees from Zhejiang University, National University of Singapore, and The University of Queensland in 1996, 2002 and 2006 respectively, all in electrical power engineering. He is now a Professor and Leader of the Smart Grid Research Area in the [Department of Electrical and Electronic Engineering](https://www.polyu.edu.hk/eee/) at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/).
 
 His research interests include power system operation under uncertainties, renewable energy integration, and smart grid technologies. He has secured more than HK$50 million in research and consultancy funding. He is a Senior Member of IEEE. He has edited 1 book and published over 300 technical papers in international top journals and conferences ([Google Scholar](https://scholar.google.com/citations?user=6MgXqkkAAAAJ&hl=en)).
 
