@@ -110,14 +110,6 @@ Professor Xu's next most significant contribution is his work on the intelligent
 
 # Selected Publications
 
-## Representative Recent Publications
-
-1. X. Su, Y. Wang, M. H. Wang, J. Chen, Z. X. Xu, L. Yang, Z. Xu, "Dynamic-Loss-Free Stability Enhancement for DC Data Center Power Systems with Impedance-Reshaped Flying Capacitor," *IEEE Transactions on Power Electronics*, vol. 41, no. 8, pp. 13330–13343, Aug. 2026.
-2. X. Li, W. Zhang, Y. Ding, W. Shi, J. Chen, Y. Liu, Y. Zhao, G. Tang, Z. Xu, "Equilibrium-based electricity-computation collaborative scheduling for data centers integrated with seawater pumped storage hydropower," *Energy*, vol. 345, 140267, 2026.
-3. J. Ruan, Y. Zhu, Y. Cao, X. Sun, S. Lei, G. Liang, J. Qiu, Z. Xu, "Privacy-Preserving Bi-Level Optimization of Internet Data Centers for Electricity-Carbon Collaborative Demand Response," *IEEE Internet of Things Journal*, vol. 11, no. 14, pp. 24948–24959, 2024.
-4. J. Ruan, Y. Li, C. Gu, Y. W. Jia, J. W. Wang, Z. Hu, Z. Xu, H. Su, T. J. Lie, J. Song, "Long-horizon resilience of power systems under climate change," *Nature Reviews Electrical Engineering*, 2026.
-5. J. Ruan, Z. Xu, H. Su, "Towards interdisciplinary integration of electrical engineering and earth science," *Nature Reviews Electrical Engineering*, vol. 1, pp. 278–279, 2024.
-
 ## Representative Earlier Publications
 
 1. Z. Xu et al., "Smart Transmission Grid: Vision and Framework," *IEEE Transactions on Smart Grid*, vol. 1, no. 2, Nov. 2010. (SCI Highly Cited Paper)
