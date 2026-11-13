@@ -26,8 +26,9 @@ His research interests include power system operation under uncertainties, renew
 - *2023 – now*: Director, PolyU Technology and Consultancy Co Ltd.
 - *2022 – now*: Deputy Director, CSG–PolyU Joint Institute for Green and Secure Power Grid
 - *2010 – 2017*: Assistant / Associate Professor, Department of Electrical Engineering, The Hong Kong Polytechnic University
-- *2009 – now*: Associate Professor (Foreign Associate Staff), Department of Electrical Engineering, Technical University of Denmark (DTU)
-- *2006 – 2009*: Assistant Professor, Centre for Electric Technology, DTU
+- *2010 – now*: Associate Professor (Foreign Associate Staff), Department of Electrical Engineering, Technical University of Denmark
+- *2009 – 2010*: Assistant Professor, Department of Electrical Engineering, Technical University of Denmark
+- *2006 – 2009*: Assistant Professor, Department of Electrical Engineering, Technical University of Denmark
 
 ## Education
 
@@ -59,12 +60,12 @@ Professor Xu's next most significant contribution is his work on the intelligent
 
 ## Editorial
 
-- *2026 – now*: Editor, IEEE Transactions on Industrial Applications
+- *2026 – now*: Associate Editor, IEEE Transactions on Industrial Applications
 - *2025 – now*: Editor, Communications Sustainability
 - *2021 – now*: Editor, IET Renewable Power Generation
-- *2015 – now*: Editor, IEEE Transactions on Smart Grid
-- *2014 – 2020*: Editor, IEEE Power Engineering Letter
 - *2013 – now*: Editorial Board Member, Journal of Modern Power Systems and Clean Energy
+- *2015 – 2022*: Editor, IEEE Transactions on Smart Grid
+- *2014 – 2020*: Editor, IEEE Power Engineering Letter
 - *2017*: Guest Editor, Special Section on Emerging Informatics, IEEE Transactions on Industrial Informatics
 - *2014*: Guest Editor-in-Chief, Special Issue on Modern Optimization Techniques, Journal of Modern Power Systems and Clean Energy
 
