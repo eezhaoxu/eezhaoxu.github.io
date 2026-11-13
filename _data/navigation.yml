@@ -6,11 +6,14 @@ main:
   - title: "Biography"
     url: "/#biography"
 
-  - title: "Membership"
-    url: "/#membership"
+  - title: "Research"
+    url: "/#research"
 
   - title: "Academic Service"
     url: "/#academic-service"
+
+  - title: "Research Projects & Awards"
+    url: "/#research-projects-and-awards"
 
   - title: "Selected Publications"
     url: "/#selected-publications"
