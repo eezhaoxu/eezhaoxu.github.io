@@ -25,7 +25,7 @@ author:
   avatar           : "images/zhao_xu.jpg"
   bio              : "Professor, The Hong Kong Polytechnic University"
   location         : "Hong Kong, China"
-  employer         : "The Hong Kong Polytechnic University"
+  employer         : #
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=6MgXqkkAAAAJ&hl=en"
   email            :
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "eezhaoxu"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "zhao-xu-00061911"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : "https://orcid.org/0000-0003-4480-7394"
   pinterest        :
