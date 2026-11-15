@@ -1,22 +1,22 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/"
+    url: "/#about-me"
 
   - title: "Biography"
-    url: "/biography/"
+    url: "/#biography"
 
   - title: "Research"
-    url: "/research/"
+    url: "/#research"
 
   - title: "Academic Service"
-    url: "/academic-service/"
+    url: "/#academic-service"
 
   - title: "Research Projects & Awards"
-    url: "/projects-awards/"
+    url: "/#research-projects-and-awards"
 
   - title: "Selected Publications"
-    url: "/publications/"
+    url: "/#selected-publications"
 
   - title: "Opening"
-    url: "/opening/"
+    url: "/#opening"
