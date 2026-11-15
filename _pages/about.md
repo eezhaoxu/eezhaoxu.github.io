@@ -64,7 +64,7 @@ Another significant contribution is his work on the intelligent management of de
 - *2021 – now*: Editor, IET Renewable Power Generation
 - *2015 – 2022*: Editor, IEEE Transactions on Smart Grid
 - *2014 – 2020*: Editor, IEEE Power Engineering Letter
-- *2013 – now*: Editorial Board Member, Journal of Modern Power Systems and Clean Energy
+- *2013 – now*: Editor, Journal of Modern Power Systems and Clean Energy
 - *2017*: Guest Editor, Special Section on Emerging Informatics, IEEE Transactions on Industrial Informatics
 - *2014*: Guest Editor-in-Chief, Special Issue on Modern Optimization Techniques, Journal of Modern Power Systems and Clean Energy
 
