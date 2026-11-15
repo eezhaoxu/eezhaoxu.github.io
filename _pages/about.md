@@ -78,17 +78,17 @@ Another significant contribution is his work on the intelligent management of de
 
 ## Research Projects
 
-- PI, RGC GRF, "Advancing power system decision-making paradigms by integrated prediction-and-optimization and deep learning," HKD 670,617, Jan 2027 – Dec 2029
+- PI, **RGC GRF**, "Advancing power system decision-making paradigms by integrated prediction-and-optimization and deep learning," HKD 670,617, Jan 2027 – Dec 2029
 - PI, Presidential Global Impact Postdoctoral Fellowship Scheme 25/26, "Physics-Informed Digital Twin and Quantum-Like Temporal State Representation for Energy Management in Active Distribution Networks," HKD 558,000, Sep 2027 – Aug 2028
-- PI, RGC GRF, "Leveraging actuarial instruments for electricity customer risk management and transmission strengthening planning against extreme weathers," HKD 1,298,709, Jan 2025 – Dec 2027
-- Co-PI, RGC AoE project, "Study of the Regional Earth System for Sustainable Development under Climate Change in the Greater Bay Area," HKD 1.2 Mil (total HKD 87.147 Mil), Jan 2024 – Dec 2028
-- PI, RGC GRF, "Future Grid Resilience assessment — a topological approach," HKD 1,075,574, Jan 2023 – Dec 2025
-- PI, Key Program of National Science Foundation of China (NSFC), "Low-Carbon Smart Operation of Integrated Energy System Considering Multi-energy Flow Trading Mechanism, Interaction Model and Decision-making Algorithm under Complex Time-Space Coupling Environment," CNY 1,650,000, Jan 2024 – Dec 2028
-- Co-PI and Subtopic Package Leader, HK RGC 3rd round Theme-Based Program, "Smart Solar Energy Harvesting, Storage and Utilization," HKD 60.33 Mil, 2014 – 2018
-- Co-PI, HK RGC 4th round Theme-Based Research Scheme, "Sustainable Power Delivery Structures for High Renewables," HKD 47.12 Mil, 2015 – 2019
-- PI, RGC GRF, "Leveraging Granular Analytics for Short-term Probabilistic Prognosis of Renewable Energy," HKD 675,647, Jan 2017 – Dec 2019
-- PI, RGC GRF, "Security Assessment of Smart Grids involving Cyber-physical interdependencies," HKD 700,000, Jan 2013 – Jan 2016
-- PI, RGC GRF, "Power System Security and Vulnerability Assessment in A Smart Grid Environment," HKD 725,625, Dec 2010 – Dec 2013
+- PI, **RGC GRF**, "Leveraging actuarial instruments for electricity customer risk management and transmission strengthening planning against extreme weathers," HKD 1,298,709, Jan 2025 – Dec 2027
+- Co-PI, **RGC AoE** project, "Study of the Regional Earth System for Sustainable Development under Climate Change in the Greater Bay Area," HKD 1.2 Mil (total HKD 87.147 Mil), Jan 2024 – Dec 2028
+- PI, **RGC GRF**, "Future Grid Resilience assessment — a topological approach," HKD 1,075,574, Jan 2023 – Dec 2025
+- PI, Key Program of **National Science Foundation of China (NSFC)**, "Low-Carbon Smart Operation of Integrated Energy System Considering Multi-energy Flow Trading Mechanism, Interaction Model and Decision-making Algorithm under Complex Time-Space Coupling Environment," CNY 1,650,000, Jan 2024 – Dec 2028
+- Co-PI and Subtopic Package Leader, **HK RGC** 3rd round Theme-Based Program, "Smart Solar Energy Harvesting, Storage and Utilization," HKD 60.33 Mil, 2014 – 2018
+- Co-PI, **HK RGC** 4th round Theme-Based Research Scheme, "Sustainable Power Delivery Structures for High Renewables," HKD 47.12 Mil, 2015 – 2019
+- PI, **RGC GRF**, "Leveraging Granular Analytics for Short-term Probabilistic Prognosis of Renewable Energy," HKD 675,647, Jan 2017 – Dec 2019
+- PI, **RGC GRF**, "Security Assessment of Smart Grids involving Cyber-physical interdependencies," HKD 700,000, Jan 2013 – Jan 2016
+- PI, **RGC GRF**, "Power System Security and Vulnerability Assessment in A Smart Grid Environment," HKD 725,625, Dec 2010 – Dec 2013
 - PI, PolyU CRG, "Risk Assessment of Cascading Failures for Operation and Planning of Smart Grids," HKD 161,894, Apr 2016 – Mar 2018
 - International Consultant, Danish-Chinese Government project, "Wind Development in China (WED)," total 45 Mil DKK, 2005 – 2009
 - Work Package Leader and Project Steering Committee member, "EDISON — integrating Electrical Vehicle in Electric Power System with substantial wind power," total 43 Mil DKK, 2009 – 2011
@@ -116,11 +116,11 @@ Another significant contribution is his work on the intelligent management of de
 
 ## Representative Earlier Publications
 
-1. Z. Xu et al., "Smart Transmission Grid: Vision and Framework," *IEEE Transactions on Smart Grid*, vol. 1, no. 2, Nov. 2010. (SCI Highly Cited Paper)
-2. C. Wan, Z. Xu, P. Pinson, Z. Y. Dong, K. P. Wong, "Probabilistic Forecasting of Wind Power Generation Using Extreme Learning Machine," *IEEE Transactions on Power Systems*, vol. 29, no. 3, pp. 1033–1044, May 2014. (SCI Highly Cited Paper)
-3. C. Wan, Z. Xu, P. Pinson, Z. Y. Dong, K. P. Wong, "Optimal Prediction Intervals of Wind Power Generation," *IEEE Transactions on Power Systems*, vol. 29, no. 3, pp. 1166–1174, May 2014. (SCI Highly Cited Paper)
-4. Z. Xu, J. Østergaard, M. Togeby, "Demand as Frequency Controlled Reserve," *IEEE Transactions on Power Systems*, vol. 26, no. 3, Aug. 2011.
-5. Z. Xu, Z. Y. Dong, K. P. Wong, "A Hybrid Planning Approach of Transmission Network in Deregulation," *IEEE Transactions on Power Systems*, pp. 925–932, May 2006.
+1. F. Li, W. Qiao, H. Sun, H. Wan, J. Wang, Y. Xia, Z. Xu, and P. Zhang, "[Smart transmission grid: vision and framework](https://ieeexplore.ieee.org/document/5535240)," *IEEE Transactions on Smart Grid*, vol. 1, no. 2, pp. 168–177, Sep. 2010, doi: 10.1109/TSG.2010.2053726. (SCI Highly Cited Paper)
+2. C. Wan, Z. Xu, P. Pinson, Z. Y. Dong, and K. P. Wong, "[Probabilistic forecasting of wind power generation using extreme learning machine](https://ieeexplore.ieee.org/document/6665108)," *IEEE Transactions on Power Systems*, vol. 29, no. 3, pp. 1033–1044, May 2014, doi: 10.1109/TPWRS.2013.2287871. (SCI Highly Cited Paper)
+3. C. Wan, Z. Xu, P. Pinson, Z. Y. Dong, and K. P. Wong, "[Optimal prediction intervals of wind power generation](https://ieeexplore.ieee.org/document/6662465)," *IEEE Transactions on Power Systems*, vol. 29, no. 3, pp. 1166–1174, May 2014, doi: 10.1109/TPWRS.2013.2288100. (SCI Highly Cited Paper)
+4. Z. Xu, J. Østergaard, and M. Togeby, "[Demand as frequency controlled reserve](https://ieeexplore.ieee.org/document/5608535)," *IEEE Transactions on Power Systems*, vol. 26, no. 3, pp. 1062–1071, Aug. 2011, doi: 10.1109/TPWRS.2010.2080293.
+5. Z. Xu, Z. Y. Dong, and K. P. Wong, "[A hybrid planning method for transmission networks in a deregulated environment](https://ieeexplore.ieee.org/document/1626399)," *IEEE Transactions on Power Systems*, vol. 21, no. 2, pp. 925–932, May 2006, doi: 10.1109/TPWRS.2006.873134.
 
 For a full and up-to-date list of publications, please see [Google Scholar](https://scholar.google.com/citations?user=6MgXqkkAAAAJ&hl=en).
 
