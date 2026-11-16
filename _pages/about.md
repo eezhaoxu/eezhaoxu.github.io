@@ -59,10 +59,10 @@ Another significant contribution is his work on the intelligent management of de
 
 ## Editorial
 
-- *2026 – now*: Editor, IEEE Transactions on Industrial Applications
+- *2026 – now*: Associate Editor, IEEE Transactions on Industrial Applications
 - *2025 – now*: Editor, Communications Sustainability
 - *2021 – now*: Editor, IET Renewable Power Generation
-- *2015 – 2022*: Editor, IEEE Transactions on Smart Grid
+- *2015 – 2021*: Editor, IEEE Transactions on Smart Grid
 - *2014 – 2020*: Editor, IEEE Power Engineering Letter
 - *2013 – now*: Editor, Journal of Modern Power Systems and Clean Energy
 - *2017*: Guest Editor, Special Section on Emerging Informatics, IEEE Transactions on Industrial Informatics
@@ -83,7 +83,9 @@ Another significant contribution is his work on the intelligent management of de
 - PI, **RGC GRF**, "Leveraging actuarial instruments for electricity customer risk management and transmission strengthening planning against extreme weathers," HKD 1,298,709, Jan 2025 – Dec 2027
 - Co-PI, **RGC AoE** project, "Study of the Regional Earth System for Sustainable Development under Climate Change in the Greater Bay Area," HKD 1.2 Mil (total HKD 87.147 Mil), Jan 2024 – Dec 2028
 - PI, **RGC GRF**, "Future Grid Resilience assessment — a topological approach," HKD 1,075,574, Jan 2023 – Dec 2025
-- PI, Key Program of **National Science Foundation of China (NSFC)**, "Low-Carbon Smart Operation of Integrated Energy System Considering Multi-energy Flow Trading Mechanism, Interaction Model and Decision-making Algorithm under Complex Time-Space Coupling Environment," CNY 1,650,000, Jan 2024 – Dec 2028
+- PI, Key Program of **National Science Foundation of China (NSFC)**, "Low-Carbon Smart Operation of Integrated Energy System Considering Multi-energy Flow Trading Mechanism, Interaction Model and Decision-making Algorithm under Complex Time-Space Coupling Environment," CNY 1,650,000, 2024 – 2028
+- PI, General Program of **National Natural Science Foundation of China (NSFC)**, "Low-Carbon Operation of Smart City under Electricity-Carbon Multi-Market Coupling Environment,"  CNY 460,000, 2023 – 2026.
+- PI, General Program of **National Natural Science Foundation of China(NSFC)**, "Integrated Energy System Bilateral Trading Mechanism Based on ADMM and Gaming Theories,"  CNY 490,000, 2020 – 2023.
 - Co-PI and Subtopic Package Leader, **HK RGC** 3rd round Theme-Based Program, "Smart Solar Energy Harvesting, Storage and Utilization," HKD 60.33 Mil, 2014 – 2018
 - Co-PI, **HK RGC** 4th round Theme-Based Research Scheme, "Sustainable Power Delivery Structures for High Renewables," HKD 47.12 Mil, 2015 – 2019
 - PI, **RGC GRF**, "Leveraging Granular Analytics for Short-term Probabilistic Prognosis of Renewable Energy," HKD 675,647, Jan 2017 – Dec 2019
@@ -103,11 +105,12 @@ Another significant contribution is his work on the intelligent management of de
 
 ## Awards
 
+- *2017*: 1st-class State Natural Science Award (SNSA), Ministry of Education, China
+- *2025*: Second-Class Nature Science Award, Guangdong Province, China
 - *2023*: Gold Medal, 49th International Exhibition of Inventions, Geneva
-- *2022*: Bronze Medal (iSMS), 48th International Exhibition of Inventions, Geneva
-- *2021*: Best Paper Award (co-authored with R. S. H. Y. Wu), IEEE IAS Industrial and Commercial Power System Asia Conference (IEEE IAS I&CPS Asia 2021), Chengdu
-- *2018*: Best Student Paper Award (co-authored with Xu Xu), IEEE Innovative Smart Grid Technology Conference (IEEE ISGT Asia), Singapore
-- *2017*: 1st-class State Natural Science Award (SNSA), Ministry of Education, PR China
+- *2022*: Bronze Medal, 48th International Exhibition of Inventions, Geneva
+- *2021*: Best Paper Award, IEEE IAS Industrial and Commercial Power System Asia Conference (IEEE IAS I&CPS Asia 2021), Chengdu
+- *2018*: Best Student Paper Award, IEEE Innovative Smart Grid Technology Conference (IEEE ISGT Asia), Singapore
 - *2014*: Winner (one of the best five algorithms), IEEE Competition on Application of Modern Heuristic Optimization Algorithm for Solving Optimal Power Flow Problems, IEEE PES General Meeting, Washington
 
 <span class='anchor' id='selected-publications'></span>
